@@ -2,18 +2,20 @@ class BookingModel {
   final String id;
   final String name;
   final String location;
+  final String image;
   final double price;
-  final String imageUrl;
   final double rating;
-  final bool isVisible;
+  final String address;
+  final bool isAvailable;
 
   BookingModel({
     required this.id,
     required this.name,
     required this.location,
+    required this.image,
     required this.price,
-    required this.imageUrl,
     required this.rating,
-    this.isVisible = true,
+    required this.address,
+    this.isAvailable = true,
   });
 }
