@@ -1,0 +1,18 @@
+final Map<String, String> enUS = {
+  'events': 'Events',
+  'cart': 'Cart',
+  'add_to_card': 'ADD TO CARD',
+  'go_to_card': 'GO TO CARD',
+  'your_cart': 'Your Cart',
+  'items_added': 'Items added',
+  'clear_all': 'Clear All',
+  'remove': 'Remove',
+  'edit': 'Edit',
+  'have_coupon': 'Have Coupon?',
+  'check': 'CHECK',
+  'total_order_value': 'Total Order Value',
+  'successfully_discount': 'Successfully Discount completed.',
+  'coupon_not_active': 'Coupone is not active',
+  'done': 'DONE',
+  'the_list_is_empty': 'The List is Empty',
+};

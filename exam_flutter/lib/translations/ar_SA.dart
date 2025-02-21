@@ -1,0 +1,18 @@
+final Map<String, String> arSA = {
+  'events': 'الفعاليات',
+  'cart': 'السلة',
+  'add_to_card': 'إضافة إلى السلة',
+  'go_to_card': 'الذهاب إلى السلة',
+  'your_cart': 'سلة المشتريات',
+  'items_added': 'العناصر المضافة',
+  'clear_all': 'حذف الكل',
+  'remove': 'حذف',
+  'edit': 'تعديل',
+  'have_coupon': 'لديك كوبون؟',
+  'check': 'تحقق',
+  'total_order_value': 'إجمالي قيمة الطلب',
+  'successfully_discount': 'تم تطبيق الخصم بنجاح',
+  'coupon_not_active': 'الكوبون غير نشط',
+  'done': 'تم',
+  'the_list_is_empty': 'القائمة فارغة',
+};
